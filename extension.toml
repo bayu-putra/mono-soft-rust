@@ -1,7 +1,7 @@
-id = "darcula-nyaman-orange"
-name = "Darcula Nyaman Orange"
+id = "mono-soft-rust"
+name = "Mono Soft Rust"
 version = "0.1.0"
 schema_version = 1
-description = "Warm dark theme with orange accents, tuned for long coding sessions (PHP/HTML/CSS/JS)."
-repository = "https://github.com/bayu-putra/darcula-nyaman-orange"
+description = "Warm dark theme with soft rust-orange accents, tuned for long coding sessions (PHP/HTML/CSS/JS)."
+repository = "https://github.com/bayu-putra/mono-soft-rust"
 authors = ["bayu putra"]

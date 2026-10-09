@@ -1,4 +1,4 @@
-# Darcula Nyaman Orange for Zed
+# Mono Soft Rust for Zed
 
 Warm dark theme with orange accents, ported from a custom VSCode "Darcula Orange"
 and tuned for long coding sessions — easy on astigmatic eyes, with clear
