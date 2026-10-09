@@ -3,5 +3,5 @@ name = "Darcula Nyaman Orange"
 version = "0.1.0"
 schema_version = 1
 description = "Warm dark theme with orange accents, tuned for long coding sessions (PHP/HTML/CSS/JS)."
-repository = "https://github.com/USERNAME/darcula-nyaman-orange"
+repository = "https://github.com/bayu-putra/darcula-nyaman-orange"
 authors = ["bayu putra"]
