@@ -1,20 +1,31 @@
-# Mono Soft Rust for Zed
+# Mono Soft Theme for Zed
 
-Warm dark theme with orange accents, ported from a custom VSCode "Darcula Orange"
-and tuned for long coding sessions — easy on astigmatic eyes, with clear
-PHP / HTML / CSS / JS highlighting.
+Soft dark themes with warm rust and neutral grey variants, tuned for readability.
 
-- Background `#181818` (neutral, calm under night-light / low brightness)
-- Off-white warm foreground (no pure black / pure white, less halation)
-- Orange keywords, warm-yellow functions, muted teal types, purple variables
+## Themes
 
-## Try locally
+| Theme | Appearance |
+| ----- | ---------- |
+| Mono Soft Rust | dark |
+| Mono Soft Grey | dark |
 
-Zed command palette → `zed: install dev extension` → pilih folder ini.
+## Install (local test)
 
-## Publish notes
+1. Open Zed command palette -> `zed: install dev extension`.
+2. Select this directory.
+3. Switch theme with `Ctrl-K Ctrl-T`.
 
-This repo contains only the theme. Two extra niceties from my setup
-(amber `$` following its variable, white `use` namespace prefixes) require
-local Tree-sitter query tweaks in the PHP extension and are intentionally
-not part of this theme.
+## Publish status
+
+Extension ID: `mono-soft-theme` (v0.1.0).
+
+## Notes
+
+- This extension ships themes only, per the Zed theme extension requirements.
+- PHP-specific Tree-sitter tweaks from earlier local experiments are intentionally
+  not bundled here. If improved PHP highlighting is needed, please propose it
+  upstream to the PHP language extension instead of overwriting its queries.
+
+## License
+
+MIT. See [LICENSE](./LICENSE).

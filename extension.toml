@@ -1,7 +1,7 @@
-id = "mono-soft-rust"
-name = "Mono Soft Rust"
+id = "mono-soft-theme"
+name = "Mono Soft Theme"
 version = "0.1.0"
 schema_version = 1
-description = "Warm dark theme with soft rust-orange accents, tuned for long coding sessions (PHP/HTML/CSS/JS)."
+authors = ["Bayu Putra <bputra2212@gmail.com>"]
+description = "Soft dark themes with warm rust and neutral grey variants, tuned for readability."
 repository = "https://github.com/bayu-putra/mono-soft-rust"
-authors = ["bayu putra"]
